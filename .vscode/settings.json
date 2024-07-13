@@ -1,3 +1,13 @@
 {
-  "python.analysis.typeCheckingMode": "basic"
+  "python.analysis.typeCheckingMode": "basic",
+//   "editor.semanticTokenColorCustomizations": {
+//         "enabled": true,
+//         "rules": {
+//             "magicFunction:python": "#ee0000",
+//             "function.declaration:python": "#5555ff",
+//             "*.decorator:python": "#0000dd",
+//             "*.typeHint:python": "#5500aa",
+//             "*.typeHintComment:python": "#aaaaaa"
+//         }
+//     }
 }
